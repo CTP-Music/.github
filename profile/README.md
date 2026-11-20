@@ -44,8 +44,6 @@ CTP Music sits inside the CTPVerse with the rest of the ecosystem: CTP Energy an
 
 Capital first, research second, craft third. Capital funds operations now and builds the facility; research happens inside that facility and nowhere else; craft follows research. The facility is a requirement on a 200-acre site, and it is not an aspiration.
 
-Capital first, research second, craft third governs the deep tech. The music portal is the near-term layer that builds audience and brand while the science runs on its longer horizon, and it is deliberately built to cost almost nothing to stand up.
-
 Everything in this profile sits on that order. This is not a portfolio of unrelated projects. It is one science with several applications, each one a market the science opens rather than a business that happens to be nearby.
 
 ## Where to find everything
